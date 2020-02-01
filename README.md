@@ -5,7 +5,7 @@ Change the text color
 
 ### App Walk-though
 
-<img src=" " width=200><br>
+<img src="https://github.com/EvyEve/prework-HelloEva/blob/master/helloEva.gif" width=200><br>
 
 
 ### Required User Stories
