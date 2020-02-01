@@ -1,10 +1,9 @@
 ## HelloEva
 
 ### App Description
-`TODO://` Change color of text
+Change the text color 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/EvyEve/HelloEva/blob/master/helloEva.gif" width=200><br>
 
